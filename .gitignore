@@ -5,6 +5,10 @@
 *.tfstate
 *.tfstate.*
 
+# IDE / tooling
+.idea
+.claude
+
 # Crash log files
 crash.log
 crash.*.log
